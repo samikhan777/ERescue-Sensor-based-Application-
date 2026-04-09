@@ -4,7 +4,7 @@ A new Flutter project.
 
 ## Getting Started
 
-Deatil documentation about project uploaded in files includin testing
+Detail documentation about project uploaded in files including testing
 
 A few resources to get you started if this is your first Flutter project:
 
